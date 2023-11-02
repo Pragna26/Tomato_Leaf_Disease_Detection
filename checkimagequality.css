@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #d8f9ff;
+}
+
+.navbar h2{
+    color: black;
+}
+
+
+.choose-file{
+    padding-top: 10%;
+    padding-left: 45%;
+}

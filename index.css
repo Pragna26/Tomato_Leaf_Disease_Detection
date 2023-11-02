@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: #d8f9ff;
+}
+.navbar h2{
+    color: black;
+}
+
+.Home-container h1{
+    padding-top: 10%;
+    color:red;
+}
+.Home-container p{
+    padding-top: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

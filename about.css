@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color: #d8f9ff;
+}
+
+.navbar h2{
+    color: black;
+}
+
+p{
+    padding-top: 10%;
+    padding-left: 10%;
+    padding-right: 100px;
+}
